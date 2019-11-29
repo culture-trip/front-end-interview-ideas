@@ -24,3 +24,6 @@ Ask the candidate to:
 - Ask the candidate what they could do to improve the accessibility of the form.
 - Run the test file with `npm test`
 - Add another test to confirm that when the form is submitted, the message is shown
+
+## Task 3 - performance
+- in the /performance folder there's an extra readme.md with instructions
